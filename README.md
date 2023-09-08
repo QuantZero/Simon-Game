@@ -1,4 +1,4 @@
-# Ready to play Simon Game! 
+# Ready to play Simon Game?
 Replicate the patterns to pass levels. 
 Highscore: Level 25
 
